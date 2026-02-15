@@ -5,5 +5,3 @@ AI-powered platform to help Indian citizens understand and apply for government 
 - Eligibility matching
 - Voice-based form filling
 - Multi-language support
-
-Built for AI for Bharat Hackathon.
